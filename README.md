@@ -1,1 +1,4 @@
-Currently learning : Web Developement, Data Science and new to Machine Learning and AI
+#Currently learning :  
+🔹Web Developement
+🔹Data Science 
+🔹new to Machine Learning and AI
